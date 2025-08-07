@@ -37,7 +37,8 @@ Jenkins Configuration (on Jenkins server)
       . Configure JDK: Add a name, enable "Install automatically"
       . Configure Maven: Add a name, select version (auto-selected if available)
    - Save changes
-### Creating a Jenkins Job
+
+Creating a Jenkins Job
 1. Go to Jenkins Home Page
 2. Click New Item
 3. Enter a project name and select Freestyle Project
