@@ -31,7 +31,7 @@ touch src/test/java/com/company/myapp/AppTest.java
 ```
 ## Jenkins Integration
 Jenkins Configuration (on Jenkins server)
-1. Navigate to http://<jenkins-server-ip>:8080/
+1. Navigate to http://jenkins-server-ip:8080/
 2. Go to Manage Jenkins
    - Under Global Tool Configuration
       . Configure JDK: Add a name, enable "Install automatically"
